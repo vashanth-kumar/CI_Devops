@@ -1,0 +1,16 @@
+# Review Summary for CI/CD Jenkins Project
+
+Project Name: CI Pipeline with Jenkins for Python App  
+Author: Vashanth Kumar  
+Review Date: 21-May-2025
+
+Review Notes:
+- ✅ Git integration with Jenkins is successfully configured.
+- ✅ Automated virtual environment setup using Python venv is working as expected.
+- ✅ Dependencies are installed from requirements.txt without issues.
+- ✅ Pytest runs automatically on every push and logs are visible in Jenkins.
+
+Overall Feedback:
+The CI pipeline is functioning well with essential automation features. Improvements such as test coverage, lint checks, and artifact archiving could enhance it further.
+
+
